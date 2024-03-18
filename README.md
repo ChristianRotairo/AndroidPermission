@@ -3,8 +3,8 @@
 Steps on how to Add permission on Android Manifest
 1. Open AndriodManifest.xml
 2. To locate open folder android/app/src/main
-3. The list of permissions are next to <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+3. The list of permissions are in line 5-12
+4. Next is check on the codes at the homescreen
 
 ## Getting Started
 
