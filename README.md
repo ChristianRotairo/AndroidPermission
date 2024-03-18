@@ -1,6 +1,11 @@
-# new_perme
+# Android Permission
 
-A new Flutter project.
+Steps on how to Add permission on Android Manifest
+1. Open AndriodManifest.xml
+2. To locate open folder android/app/src/main
+3. The list of permissions are next to
+	<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
 
 ## Getting Started
 
